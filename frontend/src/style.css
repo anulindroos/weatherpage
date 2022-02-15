@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(172, 221, 236);
+}
+
+table,
+th,
+td {
+  table-layout: fixed;
+  border-collapse: separate;
+  border-spacing: 30px;
+}
